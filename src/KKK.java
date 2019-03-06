@@ -7,6 +7,8 @@ public class KKK {
 	public void applecomputers() {
 		
 		System.out.println("Hello World my friends");
-	}
+
+		System.out.println("okkkk");
 	
+}
 }
